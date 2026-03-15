@@ -1,0 +1,307 @@
+# 📸 SPÉCIFICATIONS IMAGES - ETSY LISTINGS
+
+## Dimensions requises par Etsy:
+- **Minimum:** 2000 x 2000 px (recommandé: 3000 x 3000 px)
+- **Ratio:** 1:1 (carré) ou 4:3
+- **Format:** JPG ou PNG
+- **Taille max:** 20 MB par image
+
+---
+
+## 📋 LISTE DES 10 IMAGES PAR LANGUE
+
+### 1️⃣ IMAGE PRINCIPALE (Hero)
+**Titre:** Dashboard Complet
+**Dimensions:** 3000 x 3000 px
+**Contenu:**
+- Vue d'ensemble du tableau de bord
+- 7 icônes des sections visibles
+- Titre "[LANGUE] Student Planner"
+- Badge "Notion Template"
+- Couleurs nationales en fond subtil
+
+**Texte overlay (optionnel):**
+- "Planificateur Étudiant" / "Student Planner" etc.
+- "+7 Bases de Données"
+- "Compatible Mobile"
+
+---
+
+### 2️⃣ GIF ANIMÉ - Navigation
+**Titre:** Démonstration Navigation
+**Dimensions:** 1200 x 800 px (GIF)
+**Contenu:**
+- Enregistrement écran 5-10 secondes
+- Clic sur différentes sections
+- Transition fluide entre pages
+- Loop infini
+
+**Outils:** ScreenToGif, Loom, ou OBS
+
+---
+
+### 3️⃣ VUE MOBILE
+**Titre:** Optimisé Smartphone
+**Dimensions:** 1500 x 3000 px (format téléphone)
+**Contenu:**
+- Screenshot iPhone/Android
+- Dashboard en mode mobile
+- Montrer la réactivité responsive
+- Flèche "Scroll for more"
+
+---
+
+### 4️⃣ EMPLOI DU TEMPS
+**Titre:** Emploi du Temps / Schedule
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- Vue semaine type remplie
+- Cours colorés par matière
+- Horaires visibles
+- Jours de la semaine en local
+
+**Données exemple:**
+- Lundi: Mathématiques 9h-11h
+- Mardi: Physique 10h-12h
+- etc.
+
+---
+
+### 5️⃣ DEVOIRS & TÂCHES
+**Titre:** Suivi des Devoirs
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- Liste des tâches avec priorités
+- Couleurs: Rouge (Urgent), Jaune (Important), Vert (Normal)
+- Dates limites visibles
+- Statuts: À faire / En cours / Terminé
+
+---
+
+### 6️⃣ SUIVI DES NOTES
+**Titre:** Notes & GPA
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- Tableau des matières
+- Moyennes calculées automatiquement
+- Graphique simple (barres ou camembert)
+- Crédits ECTS/coefficients
+
+**Spécifique par pays:**
+- 🇫🇷: Moyenne sur 20, mention
+- 🇺🇸: GPA 4.0 scale
+- 🇩🇪: Noten 1-6
+- 🇷🇺: Оценки 2-5
+
+---
+
+### 7️⃣ BUDGET ÉTUDIANT
+**Titre:** Gestion Financière
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- Dépenses vs Revenus
+- Camembert/catégories
+- Solde mensuel
+- Monnaie locale (€, $, ₽)
+
+**Catégories visibles:**
+- 📚 Fournitures/Livres
+- 🍕 Nourriture
+- 🚌 Transport
+- 🏠 Logement
+- 💼 Revenus
+
+---
+
+### 8️⃣ NOTES DE COURS
+**Titre:** Système de Notes
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- Exemple de page de notes
+- Tags colorés
+- Liens externes
+- Organisation par cours
+
+---
+
+### 9️⃣ INSTRUCTIONS D'UTILISATION
+**Titre:** Comment l'utiliser
+**Dimensions:** 3000 x 3000 px
+**Contenu:**
+- 3-4 étapes simples:
+  1. "Acheter sur Etsy" ✓
+  2. "Recevoir le lien Notion" 📧
+  3. "Dupliquer dans votre espace" ➕
+  4. "Personnaliser et utiliser !" 🎉
+
+- Icons simples, texte minimal
+- Flèches de guidage
+
+---
+
+### 🔟 AVANT/APRÈS (Optionnel)
+**Titre:** Transformation
+**Dimensions:** 3000 x 2000 px
+**Contenu:**
+- GAUCHE: Désorganisation (papier partout, post-it)
+- DROITE: Organisation Notion (tout numérique, propre)
+- Flèche entre les deux
+- "Avant → Après"
+
+---
+
+## 🎨 PALETTES COULEURS PAR LANGUE
+
+### 🇫🇷 Français
+```
+Principal:    #0055A4 (Bleu France)
+Secondaire:   #EF4135 (Rouge)
+Accent:       #FFFFFF (Blanc)
+Fond:         #F8F9FA (Gris clair)
+Texte:        #1A1A2E (Noir bleuté)
+```
+
+### 🇪🇸 Español
+```
+Principal:    #AA151B (Rouge espagnol)
+Secondaire:   #F1BF00 (Jaune)
+Accent:       #AA151B
+Fond:         #FFF8E7 (Crème)
+Texte:        #2C3E50
+```
+
+### 🇩🇪 Deutsch
+```
+Principal:    #000000 (Noir)
+Secondaire:   #DD0000 (Rouge)
+Accent:       #FFCE00 (Or)
+Fond:         #F5F5F5
+Texte:        #1A1A1A
+```
+
+### 🇵🇹 Português
+```
+Principal:    #006600 (Vert)
+Secondaire:   #FF0000 (Rouge)
+Accent:       #FFD700 (Or)
+Fond:         #F0FFF0
+Texte:        #2F4F4F
+```
+
+### 🇮🇹 Italiano
+```
+Principal:    #009246 (Vert)
+Secondaire:   #CE2B37 (Rouge)
+Accent:       #F1F2F1 (Blanc)
+Fond:         #FFF5F5
+Texte:        #2C3E50
+```
+
+### 🇳🇱 Nederlands
+```
+Principal:    #21468B (Bleu)
+Secondaire:   #AE1C28 (Rouge)
+Accent:       #FFFFFF (Blanc)
+Fond:         #F0F8FF
+Texte:        #1A1A2E
+```
+
+### 🇷🇺 Русский
+```
+Principal:    #0039A6 (Bleu)
+Secondaire:   #D52B1E (Rouge)
+Accent:       #FFFFFF (Blanc)
+Fond:         #F5F5F5
+Texte:        #1A1A1A
+```
+
+### 🇬🇧 English
+```
+Principal:    #012169 (Bleu royal)
+Secondaire:   #C8102E (Rouge)
+Accent:       #FFFFFF (Blanc)
+Fond:         #F8F9FA
+Texte:        #1A1A2E
+```
+
+---
+
+## 🛠️ OUTILS RECOMMANDÉS
+
+### Gratuits:
+- **Canva** - Création facile avec templates
+- **Figma** - Design professionnel
+- **GIMP** - Édition photo avancée
+- **ScreenToGif** - Création de GIFs
+
+### Payants (optionnels):
+- **Adobe Photoshop** - Référence industrie
+- **Adobe Illustrator** - Vecteurs
+- **Sketch** - Mac uniquement
+
+---
+
+## ✅ CHECKLIST CRÉATION IMAGES
+
+Pour chaque langue:
+- [ ] 1. Créer le design dans Canva/Figma
+- [ ] 2. Exporter en haute résolution (3000px)
+- [ ] 3. Compresser sans perte (TinyPNG)
+- [ ] 4. Vérifier la lisibilité sur mobile
+- [ ] 5. Tester les couleurs (daltonisme)
+- [ ] 6. Renommer: [LANGUE]-[NUM]-[TITRE].jpg
+
+---
+
+## 📁 STRUCTURE DOSSIERS SUGGÉRÉE
+
+```
+/etsy-listings/
+├── 📁 fr-francais/
+│   ├── 01-hero-dashboard.jpg
+│   ├── 02-demo.gif
+│   ├── 03-mobile-view.jpg
+│   ├── 04-schedule.jpg
+│   ├── 05-tasks.jpg
+│   ├── 06-grades.jpg
+│   ├── 07-budget.jpg
+│   ├── 08-notes.jpg
+│   ├── 09-instructions.jpg
+│   └── 10-transformation.jpg
+├── 📁 es-espanol/
+├── 📁 de-deutsch/
+├── 📁 pt-portugues/
+├── 📁 it-italiano/
+├── 📁 nl-nederlands/
+├── 📁 ru-russkiy/
+├── 📁 en-english/
+└── 📄 etsy_listings.md
+```
+
+---
+
+## 💡 TIPS PROFESSIONNELS
+
+1. **Cohérence visuelle** - Même mise en page pour toutes les langues
+2. **Mockups** - Utiliser des mockups de laptop/tablette
+3. **Personnes** - Ajouter subtilement des photos d'étudiants divers
+4. **Shadows** - Ombres douces pour la profondeur
+5. **Typographie** - Police lisible (Inter, Roboto, ou Helvetica)
+6. **Espace négatif** - Ne pas surcharger, laisser respirer
+7. **A/B Testing** - Tester 2 versions de l'image principale
+
+---
+
+## 🚀 AUTOMATISATION (OPTION AVANCÉE)
+
+Script Python pour générer les images automatiquement:
+- Prendre screenshots Notion API
+- Appliquer overlays texte
+- Redimensionner pour Etsy
+- Compresser et exporter
+
+*À développer si volume important*
+
+---
+
+*Guide créé pour le projet Student Planner Notion*
